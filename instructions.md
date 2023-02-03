@@ -28,7 +28,10 @@ Now that you have your home page file, you need to put stuff in it. Specifically
   <link rel="stylesheet" type="text/css" href="style.css" />
 </head>
 <body>
-  <h1>Hello, world!</h1>
+  <header>
+  </header>
+  <main>
+  </main>
 </body>
 </html>
 ```
@@ -56,3 +59,7 @@ A navbar is what you use to navigate to different pages. Almost every website ha
       </ul>
     </nav>
 ```
+The navbar is going to be put into the header section. That means between the `<header>` and `</header>`.
+** HIT RUN TO TEST **
+
+If successful you should see a navbar now. You can edit the words. If you want to change where the links go to, just make sure that is starts with a / and you make sure the change is reflected everywhere.
