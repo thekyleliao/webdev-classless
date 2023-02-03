@@ -8,7 +8,7 @@ HTML is a type of markup language used to communicate content.
 CSS is a type of markup language used to communicate styling.
 
 ## What are Classless CSS Frameworks?
-Frameworks like MVP.css are prebuilt stylesheets with styling already written for the majority of commonly used tags in html. For instance, <img>, <a>, <p>.
+Frameworks like MVP.css are prebuilt stylesheets with styling already written for the majority of commonly used tags in html. For instance, `<img>, <a>, <p>`.
 
 # Getting Started!
 1. Open these instructions
@@ -37,10 +37,10 @@ Now that you have your home page file, you need to put stuff in it. Specifically
 ```
 This is what you want in your index.html
 
-** Next Step **
+**Next Step**
 You want to import the MVP.CSS framework. See where in the boilerplate is says `<link rel="stylesheet" type="text/css" href="style.css" />`.
 We want to change that. It should say the link to our css framework. 
-** https://unpkg.com/mvp.css@1.12/mvp.css **
+**https://unpkg.com/mvp.css@1.12/mvp.css**
 Consequently that line of code should look like this: ` <link rel="stylesheet" href="https://unpkg.com/mvp.css@1.12/mvp.css">  `
 
 Now you have imported a boilerplate and imported the CSS framework. Now its time to write HTML!
