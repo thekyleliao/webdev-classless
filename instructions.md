@@ -102,6 +102,7 @@ We have gone over making a boilerplate and navigating certain aspects of writing
 **NEXT STEPS(Challenges)**
 1. Add new pages to your site. You will need to make a new file on replit and name it. Then reference the name in the links you added to your navbar so that the navbar will direct the users to the new pages.
 2. Learn the other tags that the framework supports. Reference the MVP.CSS [Guide](https://andybrewer.github.io/mvp/#docs) and [w3schools](https://www.w3schools.com/tags/default.asp) reference guide. Add stuff like cards, tables, etc.
+3. Also, check out [ehc.wiki](https://ehc.wiki) for the personal website worskhop resources. We have meaningful stuff on there. You can also contribute!
 
 ### Demo Code
 ```
